@@ -41,16 +41,17 @@ https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=6437b581145a97fd_134561_LKuXN6J4__00000009qrh&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=ZqvgS5QcgaLzjytaLZVgswoqQKxXBxkd&pid=hcqQPofQI4hljfE0el1e7xRVstlG9NIW&ref=rpp.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1681593498495&ot=8Tvbxda5huLldnRSZLekhA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.1
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logolainolvidable2020.png" group-title="Radio Perú", Inolvidable
-https://18303.live.streamtheworld.com/CRP_LIAAC.aac
+https://19213.live.streamtheworld.com/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001
 
 #EXTINF: -1 tvg-logo="https://commons.wikimedia.org/wiki/File:Moda_2018.png" group-title="Radio Perú", MODA
-http://18303.live.streamtheworld.com/CRP_MODAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Nueva_Q.png" group-title="Radio Perú", NuevaQ
 https://23043.live.streamtheworld.com/CRP_NQAAC_SC
 
 #EXTINF: -1 tvg-logo="https://commons.wikimedia.org/wiki/File:Ritmoromantica2019.jpg" group-title="Radio Perú", Ritmo Romantica
-http://18243.live.streamtheworld.com:3690/CRP_RITAAC_SC
+https://19213.live.streamtheworld.com/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001
+
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_actual_de_radio_panamericana.JPG/640px-Logo_actual_de_radio_panamericana.JPG" group-title="Radio Perú", Panamericana
 https://streaming.gometri.com/stream/8000/stream
