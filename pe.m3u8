@@ -1,0 +1,64 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nXOHzqA.png" group-title="Perú", Latina Television
+https://live-par-1-abr-cdn.livepush.io/live_abr_cdn/emaIqCGoZw-6/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFibnwjVoSnTzrMZAzhGFy5PDrjOEanqnJkKos8XahRvC)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television HD
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF: -1 tvg-logo="https://willax.tv/wp-content/uploads/2018/07/willax-tv2.jpg" group-title="Perú",Willax TV
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrp-oail7wGwSY4c6YJtJrKYLGP2Ek4iMi8YALcljQAH)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+
+#EXTINF: -1 tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV+
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV_Sur_-_2018_logo_%28proposed%29.png" group-title="Perú",ATV Sur
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Perú",TV peru
+https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="Perú",TV peru Noticias
+https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF: -1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="Perú", Exitosa
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest?cb=20200217131332&path-prefix=es" group-title="Perú", Karibeña HD
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="Perú", Cajamarca Tv
+https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/225px-RPP_logo.png" group-title="Radio Perú", RPP
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=6437b581145a97fd_134561_LKuXN6J4__00000009qrh&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=ZqvgS5QcgaLzjytaLZVgswoqQKxXBxkd&pid=hcqQPofQI4hljfE0el1e7xRVstlG9NIW&ref=rpp.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1681593498495&ot=8Tvbxda5huLldnRSZLekhA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.1
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logolainolvidable2020.png" group-title="Radio Perú", Inolvidable
+https://18303.live.streamtheworld.com/CRP_LIAAC.aac
+
+#EXTINF: -1 tvg-logo="https://commons.wikimedia.org/wiki/File:Moda_2018.png" group-title="Radio Perú", MODA
+http://18303.live.streamtheworld.com/CRP_MODAAC.aac
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Nueva_Q.png" group-title="Radio Perú", NuevaQ
+https://23043.live.streamtheworld.com/CRP_NQAAC_SC
+
+#EXTINF: -1 tvg-logo="https://commons.wikimedia.org/wiki/File:Ritmoromantica2019.jpg" group-title="Radio Perú", Ritmo Romantica
+http://18243.live.streamtheworld.com:3690/CRP_RITAAC_SC
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_actual_de_radio_panamericana.JPG/640px-Logo_actual_de_radio_panamericana.JPG" group-title="Radio Perú", Panamericana
+https://streaming.gometri.com/stream/8000/stream
+
+#EXTINF: -1 tvg-logo="https://es.wikipedia.org/wiki/Z_Rock_%26_Pop#/media/Archivo:Logo-z-rock-and-pop.png" group-title="Radio Perú", Z Rock & Pop
+http://167.114.118.120:7440/;
+
+
+
+
+
