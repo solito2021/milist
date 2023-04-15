@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Am%C3%A9rica_Televisi%C3%B3n_Internacional_2022.png" group-title="Perú", America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=appdPsqSUaZhngklxiImJWHxowiZCtLJ&pid=NCitQ4VLnGP4GTFSgh0AGrgA1r1pQl1k&an=screen&at=web-app&av=v5.2.333&c=13395136&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=M3i7mFsAC4WRadMYeckX7zhMpPVXiSCQKwEnopJFPskqIOjmffBlyhiUy3ib5fR335fvEjg20Sy
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television
-https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFibnwjVoSnTzrMZAzhGFy5PDrjOEanqnJkKos8XahRvC)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=appdPsqSUaZhngklxiImJWHxowiZCtLJ&pid=nRBavHLWMLAMok8Dbtlp1KcscY5gPXn5&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.333&ref=https%3A%2F%2Fwww.latina.pe%2F&res=703x395&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television HD
 https://cdnh71.iblups.com/hls/ptv2.m3u8
