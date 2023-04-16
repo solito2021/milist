@@ -32,7 +32,10 @@ https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
 #EXTINF: -1 tvg-logo="https://ibb.co/jvLhbH6" group-title="Musica", Karibeña HD
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8}
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HGpwpVd/adaptadores.png"" group-title="Perú", America Tv HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/199968 
 
 #EXTINF: -1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="Perú", Cajamarca Tv
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
