@@ -44,14 +44,14 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF: -1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="Perú", Cajamarca Tv
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Deporte",Best cable
+#EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Deporte",Best cable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 
 
-EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Musica", Best cabe Musica
+EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Musica", Best cabe Musica
 https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
 
-EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Musica", Best cabe Cumbia
+EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Musica", Best cabe Cumbia
 https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/225px-RPP_logo.png" group-title="Radio Perú", RPP
