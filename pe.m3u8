@@ -33,12 +33,18 @@ https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest?cb=20200217131332&path-prefix=es" group-title="Perú", Karibeña HD
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest?cb=20200217131332&path-prefix=es" group-title="Musica", Karibeña HD
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="Perú", Cajamarca Tv
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
+
+EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Deporte", Best cabe deporte
+https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
+
+EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Musica", Best cabe deporte
+https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/225px-RPP_logo.png" group-title="Radio Perú", RPP
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9/playlist.m3u8?listeningSessionID=6437b581145a97fd_134561_LKuXN6J4__00000009qrh&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=ZqvgS5QcgaLzjytaLZVgswoqQKxXBxkd&pid=hcqQPofQI4hljfE0el1e7xRVstlG9NIW&ref=rpp.pe&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1681593498495&ot=8Tvbxda5huLldnRSZLekhA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5fab3416b5f9ef165cfab6e9&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.1
