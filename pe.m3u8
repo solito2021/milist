@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=MIjCf64LYB52833XE8u0HO5PwuZm1ZuQ&pid=ziftLSQ7pTwmWMM7iFEh23JEHQYaw8pH&an=screen&at=web-app&av=v5.2.334&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fref%3Dhbprd4&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=iD1UJXXONvA5kAxjUoLJV9IGJvR47YwcPCDRfKopmYCCfRsXa5cc8Wrwcg1DLQxpSGG3NSvjQkA
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/HGpwpVd/adaptadores.png" group-title="Perú", America TV 2
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HGpwpVd/adaptadores.png"" group-title="Perú", America Tv HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/199968 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
