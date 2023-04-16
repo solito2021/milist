@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Am%C3%A9rica_Televisi%C3%B3n_Internacional_2022.png" group-title="Perú", America TV
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=hAP5tKFdsCh3r7poEWgJRPOBFLBqBBZt&pid=Gvd7UKzDAaumoiXXgv4hRnDL6hdzrZiL&an=screen&at=web-app&av=v5.2.334&c=13395136&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fref%3Dhbprd4&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=q2GcpO98RnOqa8kNlOobjPWZrrchM0OmXWdt9PI1U3mBIP3jQaGBo9OhIH0NrwBd1aflIlyFcqg
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=aWVDsAc4zZ4s6IwCsXKdqJWi4Fh7hp4n&pid=xkFHqwwRimRbPBbE8lqm07cKW5bGf2b4&an=screen&at=web-app&av=v5.2.334&c=13395136&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=5GqnbAcn4hIfN0fiycW2heDVHKYwHcV8en6eS8YcboA132dICFeHQdEO286YbxgMmpe6bUCWXro
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
@@ -10,8 +10,8 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF: -1 tvg-logo="https://willax.tv/wp-content/uploads/2018/07/willax-tv2.jpg" group-title="Perú",Willax TV
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmjiYEzQZL7yHjut66CNnEjI_Mz4KqERcYRpFSN3QTbwa)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
+#EXTINF: -1 tvg-logo="https://willax.tv/wp-content/uploads/2018/07/willax-tv2.jpg" group-title="Perú",Willax TV 2
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmhxH-HAC2dJH_Mw1dG93ebHtEx52wEE0nU7-B8zeWv7i)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
-
 
 #EXTINF: -1 tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
