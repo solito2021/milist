@@ -1,9 +1,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=MIjCf64LYB52833XE8u0HO5PwuZm1ZuQ&pid=ziftLSQ7pTwmWMM7iFEh23JEHQYaw8pH&an=screen&at=web-app&av=v5.2.334&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fref%3Dhbprd4&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=iD1UJXXONvA5kAxjUoLJV9IGJvR47YwcPCDRfKopmYCCfRsXa5cc8Wrwcg1DLQxpSGG3NSvjQkA
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/HGpwpVd/adaptadores.png"" group-title="Perú", America Tv HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/199968 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
@@ -25,6 +22,8 @@ https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV_Sur_-_2018_logo_%28proposed%29.png" group-title="Perú",ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HGpwpVd/adaptadores.png"" group-title="Perú", America Tv HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/199968 
 
 #EXTINF: -1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Perú",TV peru
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
