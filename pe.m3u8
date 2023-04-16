@@ -44,10 +44,10 @@ https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Deporte",Best cable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Musica",Best cable Musica
+#EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Musica",Best musica
 https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Musica",Best cable cumbia
+#EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Musica",Best cumbia
 https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/225px-RPP_logo.png" group-title="Radio Perú", RPP
