@@ -44,8 +44,9 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF: -1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="Perú", Cajamarca Tv
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
 
-EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Deporte", Best cabe deporte
+#EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Deporte",Best cable
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
+
 
 EXTINF: -1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png" group-title="Musica", Best cabe Musica
 https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
