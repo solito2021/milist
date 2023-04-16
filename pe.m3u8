@@ -1,6 +1,8 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Perú", America TV
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=8VZ13rt2jzFfxAruH68McuCOgHssfNRC&pid=FnM9hO8HREqpqusQ0kaMCXLZaIiE1vbf&an=screen&at=web-app&av=v5.2.334&c=13395136&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=z0py1ZC23a4ADKjzH8i3emKD8b7mjTpljMqbwnamDr9ICIeZ4I9o4qbn7mOpGi1zpjAFGaEa5NS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=MIjCf64LYB52833XE8u0HO5PwuZm1ZuQ&pid=ziftLSQ7pTwmWMM7iFEh23JEHQYaw8pH&an=screen&at=web-app&av=v5.2.334&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fref%3Dhbprd4&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=iD1UJXXONvA5kAxjUoLJV9IGJvR47YwcPCDRfKopmYCCfRsXa5cc8Wrwcg1DLQxpSGG3NSvjQkA
 
+EXTINF:-1 tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/199968 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
@@ -39,13 +41,13 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF: -1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="Perú", Cajamarca Tv
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Deporte",Best cable Sports
+#EXTINF: -1 tvg-logo="https://i.ibb.co/sPjzFQK/bestcable.png" group-title="Deporte",Best cable Sports
 https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Musica",Best musica
 https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://ibb.co/NNj4cGr" group-title="Musica",Best cumbia
+#EXTINF: -1 tvg-logo="https://i.ibb.co/sPjzFQK/bestcable.png" group-title="Musica",Best cumbia
 https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/RPP_logo.png/225px-RPP_logo.png" group-title="Radio Perú", RPP
@@ -54,7 +56,7 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logolainolvidable2020.png" group-title="Radio Perú", Inolvidable
 https://19213.live.streamtheworld.com/CRP_LI_SC?csegid=20001&dist=20001&ttag=20001
 
-#EXTINF: -1 tvg-logo="https://commons.wikimedia.org/wiki/File:Moda_2018.png" group-title="Radio Perú", MODA
+#EXTINF: -1 tvg-logo="https://i.ibb.co/YbM6hRS/ka.png" group-title="Radio Perú", MODA
 https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC?csegid=20001&dist=20001&ttag=20001
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Nueva_Q.png" group-title="Radio Perú", NuevaQ
