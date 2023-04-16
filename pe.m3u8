@@ -10,6 +10,9 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF: -1 tvg-logo="https://willax.tv/wp-content/uploads/2018/07/willax-tv2.jpg" group-title="Perú",Willax TV
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmjiYEzQZL7yHjut66CNnEjI_Mz4KqERcYRpFSN3QTbwa)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmhxH-HAC2dJH_Mw1dG93ebHtEx52wEE0nU7-B8zeWv7i)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+
+
 #EXTINF: -1 tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
