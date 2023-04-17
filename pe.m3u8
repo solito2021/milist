@@ -1,6 +1,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=MIjCf64LYB52833XE8u0HO5PwuZm1ZuQ&pid=4AnsRg5a1WojdiqYI56YpFskZEOl1HPY&an=screen&at=web-app&av=v5.2.334&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=F1f3EbnjTl2djijQh1hWgLSpqe9qKWQ4lMdTizwpwikRpq39Vu5vBdXqhunvyZfyA32MBgkAtG3
 
+EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image1130303973.jpg" group-title="Perú", Chincha TV
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
