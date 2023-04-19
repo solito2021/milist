@@ -16,7 +16,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF: -1 tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="Perú",Willax TV
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmjaAd0IBsRaAiC4RIhYDbzyiqDv38_GZAClIx0YvarKO)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmqwttFd_LpgBQNTxq96kKx4yc3gu8MqMgc3AOFe75BBw)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 #EXTINF: -1 tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
@@ -70,7 +70,7 @@ https://19213.live.streamtheworld.com/CRP_LI_SC?csegid=20001&dist=20001&ttag=200
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_actual_de_radio_panamericana.JPG/640px-Logo_actual_de_radio_panamericana.JPG" group-title="Radio Perú", Panamericana
 https://streaming.gometri.com/stream/8000/stream
 
-#EXTINF: -1 tvg-logo="https://es.wikipedia.org/wiki/Z_Rock_%26_Pop#/media/Archivo:Logo-z-rock-and-pop.png" group-title="Radio Perú", Z Rock & Pop
+#EXTINF: -1 tvg-logo="https://logos.fandom.com/es/wiki/Radio_Z_Rock_%26_Pop?file=Z_Rock_%2526amp%253B_Pop_2010.svg" group-title="Radio Perú", Z Rock & Pop
 http://167.114.118.120:7440/;
 
 
