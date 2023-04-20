@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml,https://iptv-org.github.io/epg/guides/es/compulms.com.xml,https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/nuevosiglo.com.uy.xml,https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 
-#EXTINF:-1 tvg-id=»America Television» tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
+#EXTINF:-1 tvg-id=»AmericaTelevision.pe» tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=4Wu1wbGccCkj2MNDPBJpMlRglMZKApWO&pid=wWAQ4Bukf1YPHPANbMjNR7TW48Pql0W8&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=MbvuUPHs0YfpkrZvICypNAIMHqw4S7D7ieihoyBGItlRrzkmlNHy5yLCe6DucpAbOK9lfhCkAP6
 
 #EXTINF: -1 tvg-id=»Chincha TV» tvg-logo="https://i.postimg.cc/WzNK0Rfq/descarga.png" group-title="Perú", Chincha TV
@@ -9,36 +9,35 @@ https://tvdatta.com:3548/live/chinchatvlive.m3u8
 #EXTINF:-1 tvg-id=Eco TV» tvg-logo="https://i.postimg.cc/fTkmy2TH/descarga.png" group-title="Perú", Eco TV Ica
 https://9869301999d6.ngrok.app/hls/stream.m3u8
 
-#EXTINF: -1 tvg-id=»Latina Telivision» tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
+#EXTINF: -1 tvg-id=»FrecuenciaLatina.pe» tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
-#EXTINF: -1  tvg-id=»Panamericana Television» tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television 
+#EXTINF: -1  tvg-id=»FrecuenciaLatina.pe» tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television 
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
-#EXTINF: -1 tvg-id=»Willax television» tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="Perú",Willax TV
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmqwttFd_LpgBQNTxq96kKx4yc3gu8MqMgc3AOFe75BBw)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+#EXTINF: -1 tvg-id=»Willax.pe» tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="Perú",Willax TV
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrx6OI9vhhBavAotVs98J1JnltdyaPrjajGTA31aoKnR)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
-#EXTINF: -1 tvg-id=»ATV television» tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV
+#EXTINF: -1 tvg-id=»ATV.pe» tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 
-#EXTINF: -1  tvg-id=»ATV + » tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV+
+#EXTINF: -1  tvg-id=»	ATVPlus.pe» tvg-logo="https://www.atv.pe/wp-content/uploads/2020/09/nothumb.jpg" group-title="Perú",ATV+
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
 
-#EXTINF: -1  tvg-id=»ATV Sur» tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV_Sur_-_2018_logo_%28proposed%29.png" group-title="Perú",ATV Sur
+#EXTINF: -1  tvg-id=»ATVSur.pe» tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV_Sur_-_2018_logo_%28proposed%29.png" group-title="Perú",ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
 
-#EXTINF: -1 tvg-id=»» tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Perú",TV peru
+#EXTINF: -1 tvg-id=»TvPeru.pe» tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Perú",TV peru
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="Perú",TV peru Noticias
 https://cdnh75.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF: -1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="Perú", Exitosa
+#EXTINF: -1  tvg-id=»Exitosa.pe»  tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="Perú", Exitosa
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 
 #EXTINF: -1 tvg-logo="https://ibb.co/jvLhbH6" group-title="Musica", Karibeña HD
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8}
-
 
 #EXTINF: -1 tvg-logo="https://cajamarcatv.pe/assets/img/logo.png" group-title="Perú", Cajamarca Tv
 https://ca2.inka.net.pe/cajamarcatv/tracks-v1a1/mono.m3u8
