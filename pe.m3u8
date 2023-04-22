@@ -1,6 +1,6 @@
 
 
-#EXTINF:  tvg-id=»AmericaTelevision.pe» tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
+#EXTINF:  tvg-id="AmericaTelevision.pe" tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
 https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=4Wu1wbGccCkj2MNDPBJpMlRglMZKApWO&pid=wWAQ4Bukf1YPHPANbMjNR7TW48Pql0W8&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=MbvuUPHs0YfpkrZvICypNAIMHqw4S7D7ieihoyBGItlRrzkmlNHy5yLCe6DucpAbOK9lfhCkAP6
 
 #EXTINF: -1 tvg-id=»Chincha TV» tvg-logo="https://i.postimg.cc/WzNK0Rfq/descarga.png" group-title="Perú", Chincha TV
@@ -9,7 +9,7 @@ https://tvdatta.com:3548/live/chinchatvlive.m3u8
 #EXTINF:-1 tvg-id=Eco TV» tvg-logo="https://i.postimg.cc/fTkmy2TH/descarga.png" group-title="Perú", Eco TV Ica
 https://9869301999d6.ngrok.app/hls/stream.m3u8
 
-#EXTINF: -1 tvg-id=»FrecuenciaLatina.pe» tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
+#EXTINF: -1 tvg-id="FrecuenciaLatina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Latina_Television.jpg" group-title="Perú",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
 #EXTINF: -1  tvg-id=»FrecuenciaLatina.pe» tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television 
