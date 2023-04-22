@@ -1,7 +1,8 @@
+#EXTM3U url-tvg="https://epg.best/2139f-4bmjl9.xml.gz" x-tvg-url="https://epg.best/2139f-4bmjl9.xml.gz"
 
-
-#EXTINF:  tvg-id="AmericaTelevision.pe" tvg-logo="https://i.ibb.co/2n05pcB/america.png" group-title="Perú", America TV
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rL2UNrSoREJ6GPUsUeDFztWWti4mImIe&sid=4Wu1wbGccCkj2MNDPBJpMlRglMZKApWO&pid=wWAQ4Bukf1YPHPANbMjNR7TW48Pql0W8&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=MbvuUPHs0YfpkrZvICypNAIMHqw4S7D7ieihoyBGItlRrzkmlNHy5yLCe6DucpAbOK9lfhCkAP6
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV" tvg-logo="https://static.epg.best/pe/AmericaTelevision.pe.png" tvg-chno="1" channel-id="1" group-title="Perú",America TV
+First m3u8 URL from:  https://tvgo.americatv.com.pe/?ref=hbprd4
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=rOUlfnNKgQ69Ez6Ir3NHatURZWuhX7l0&sid=n9QEgTP78d45ZCX4faYn53DBlYgtoFcu&pid=U3jnSKDFa9dExAQeSWtkF7jkzqmKghOS&an=screen&at=web-app&av=v5.2.336&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fref%3Dhbprd4&res=1692x952&without_cookies=false&listenerid=&dnt=true&access_token=ccwZiTm8DLYxvkZTyCsm8Khe2TF5N8rzBYOeQSCsf9gLNWMixJMWq2WSoD56ZPukxVjP67Ej3lB
 
 #EXTINF: -1 tvg-id=»Chincha TV» tvg-logo="https://i.postimg.cc/WzNK0Rfq/descarga.png" group-title="Perú", Chincha TV
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
